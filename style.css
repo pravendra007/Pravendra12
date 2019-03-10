@@ -396,17 +396,17 @@ footer img{
         font-size: 11px;
     }
     .product{
-        height: 1900px;
+        height: 1629px;
     }
     .proContainer{
-        height: 2400px;
+        height: 2068px;
     }
     .boxes{
         flex-wrap: initial;
         flex-direction: column;
     }
     .box{
-        width: 100%;
+        width: 113%;
         height: 164px;
     }
     .proContainer h3{
@@ -419,13 +419,13 @@ footer img{
     .over{
         flex-direction: column;
         flex-wrap: initial;
-        height: 2400px;
+        height: 1269px;
     }
     .customer{
-        height: 2700px;
+        height: 1468px;
     }
     .custContainer{
-        height: 2700px;
+        height: 2126px;
     }
     .custContainer h1{
         font-size: 19px;
@@ -435,25 +435,25 @@ footer img{
     }
     .review{
         width: 100%;
-        height: 21%;
+        height: 12%;
     }
     .review h4{
         left: 43%;
-        bottom: 51%;
+        bottom: 23%;
     }
     .review p{
-        margin-top: 64%;
+        margin-top: 120px;
     }
     .review1{
         width: 100%;
-        height: 20%;
+        height: 14%;
     }
     .review1 h4{
-        left: 39%;
-        bottom: 50%;
+        left: 41%;
+        bottom: 33%;
     }
     .review1 p{
-        margin-top: 63%;
+        margin-top: 43%;
     }
     .contactContainer h1{
         font-size: 19px;
@@ -466,27 +466,43 @@ footer img{
         border: none;
     }
     .address{
-        width: 100%;
+        width: 65%;
+        align-items: initial;
     }
     .address h3{
         margin-bottom: 0px;
+        font-size: 18px;
+        text-align: initial;
+    }
+    .address p{
+        margin: 16px 0;
+        text-align: initial;
+        font-size: 13px;
+    }
+    #btn{
+    color: black;
+    padding: 7px 3px;
+    width: 150px;
     }
     footer{
         align-items: initial;
         display: initial;
     }
     footer img{
-        width: 118px;
-        height: 45px;
-        margin-left: 120px;
+        width: 128px;
+        height: 42px;
+        margin-left: 27px;
     }
     .links{
-        margin-left: 10px;
+        margin-left: 27px;
         margin-bottom: 10px;
     }
     .links h1{
         font-size: 20px;
-        margin-top: 15px;
+        margin-top: -2px;
+    }
+    .linkss{
+        margin-top: 6px;
     }
 }
 
